@@ -1,3 +1,6 @@
 [submodule "pack/plugins/start/indent-blankline.nvim"]
 	path = pack/plugins/start/indent-blankline.nvim
 	url = git@github.com:lukas-reineke/indent-blankline.nvim.git
+[submodule "pack/plugins/start/onedark.nvim"]
+	path = pack/plugins/start/onedark.nvim
+	url = git@github.com:joshdick/onedark.vim.git
