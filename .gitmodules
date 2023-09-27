@@ -4,3 +4,9 @@
 [submodule "pack/plugins/start/onedark.nvim"]
 	path = pack/plugins/start/onedark.nvim
 	url = git@github.com:joshdick/onedark.vim.git
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "pack/plugins/start/nerdtree-git-plugin"]
+	path = pack/plugins/start/nerdtree-git-plugin
+	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
