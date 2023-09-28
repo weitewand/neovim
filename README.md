@@ -1,5 +1,10 @@
 # nvim
 
+### Git
+
+I installed lazygit (https://github.com/jesseduffield/lazygit) as a fast and easy way to work with git from the terminal.
+ToDo: Get lazygit running from inside nvim and make a shortcut for it.
+
 ### Plugins
 
 Saved at '/pack/plugin/' and then 
