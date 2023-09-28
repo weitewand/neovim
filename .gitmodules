@@ -10,3 +10,6 @@
 [submodule "pack/plugins/start/nerdtree-git-plugin"]
 	path = pack/plugins/start/nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
+[submodule "pack/plugins/start/which-key.nvim"]
+	path = pack/plugins/start/which-key.nvim
+	url = git@github.com:folke/which-key.nvim.git
