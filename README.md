@@ -11,3 +11,4 @@ Plugins at 'start/'
   * NERDTree-git-plugin
   * onedark.vim
   * indent-blankline
+  * which-key.nvim
