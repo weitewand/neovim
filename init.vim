@@ -2,7 +2,7 @@ if exists('g:vscode')
 	" VSCode extension
 else
 	" ordinary Neovim
-	source ~/vim/vimrc
+	source ~/.vimrc
 
 	" Change the tab-completion of commands to a bash-like behaviour
 	" (first tab comletes as much as possible, second shows a list and
