@@ -35,6 +35,6 @@ else
 	" set <leader> to space so all extra mappings can be started with
 	" space:
 	let mapleader = " "
-	lua require('initlua')
+	lua require('startWithLua')
 	" ===============================================================
 endif
