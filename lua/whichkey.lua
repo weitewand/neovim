@@ -12,6 +12,12 @@ end
 --  * <leader>fe edit file
 -- and hide <leader>1
 
+-- set the time [in ms] nvim is waiting for a sequential combination of keys ((which-key.nvim only triggers the popup with possible keys afterwards):
+vim.opt.timeoutlen = 100
+
+-- Set the <leader>-key to space:
+vim.g.mapleader = ' '
+
 -- Create the following mappings:
 -- 	* <leader>gg -> start Lazygit
 whichkey.register({
@@ -28,6 +34,3 @@ whichkey.register({
   },
 }, { prefix = "<leader>" })
 
-function _test()
-	print('Hallo')
-end
