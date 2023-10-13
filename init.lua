@@ -11,4 +11,5 @@ require "fterm"
 -- indent-blankline
 require "indentblankline"
 
-
+-- nerdtree
+require "nerdtree"
