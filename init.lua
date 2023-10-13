@@ -6,7 +6,7 @@ require "basics"
 require "whichkey"
 
 -- Terminal
-require "toggleterm"
+require "fterm"
 
 -- indent-blankline
 require "indentblankline"
