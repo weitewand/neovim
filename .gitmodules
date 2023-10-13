@@ -16,6 +16,6 @@
 [submodule "pack/plugins/start/toggleterm.nvim"]
 	path = pack/plugins/start/toggleterm.nvim
 	url = git@github.com:akinsho/toggleterm.nvim.git
-[submodule "FTerm.nvim"]
-	path = pack/plugin/start/FTerm.nvim
+[submodule "pack/plugins/start/fterm.nvim"]
+	path = pack/plugins/start/fterm.nvim
 	url = https://github.com/numToStr/FTerm.nvim
