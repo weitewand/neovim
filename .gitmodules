@@ -13,9 +13,6 @@
 [submodule "pack/plugins/start/which-key.nvim"]
 	path = pack/plugins/start/which-key.nvim
 	url = git@github.com:folke/which-key.nvim.git
-[submodule "pack/plugins/start/toggleterm.nvim"]
-	path = pack/plugins/start/toggleterm.nvim
-	url = git@github.com:akinsho/toggleterm.nvim.git
 [submodule "pack/plugins/start/fterm.nvim"]
 	path = pack/plugins/start/fterm.nvim
 	url = https://github.com/numToStr/FTerm.nvim
