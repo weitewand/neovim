@@ -1,4 +1,4 @@
-local status_ok, whichkey = pcall(require, "indent_blankline")
+local status_ok, indentblankline = pcall(require, "indent_blankline")
 if not status_ok then
 	vim.notify('WARNING: indent-blankline.nvim faild to load')
 	return
